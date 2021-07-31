@@ -1,0 +1,5 @@
+NGLDNC51T05L367H,Casati96,2020-02-10,'Via Paullo 36'
+NGLDNC51T05L367H,Costa65,2019-12-03,'Piazza Tricolore 2'
+NGLDNC51T05L367H,Costa65,2020-01-03,'Piazza Tricolore 2'
+SCHCRL97R66B453B,Orazio22,2019-11-15,'Viale della Speranza 5'
+ZCCNRC96M14F912K,Girolamo52,2020-01-15,'Piazza della Pace 13'
